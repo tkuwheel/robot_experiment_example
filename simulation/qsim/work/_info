@@ -1,0 +1,157 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\SourceCode\GitHub\robot_experiment_homework\simulation\qsim
+vfulladd
+Z1 IHPZTH;Cod>U6aFAzL`FUB3
+Z2 V9V:lXC?6KD;a?BR88Qfjn1
+Z3 dE:\SourceCode\GitHub\robot_experiment_homework\simulation\qsim
+Z4 w1694409954
+Z5 8Halfadder_and_fulladder.vo
+Z6 FHalfadder_and_fulladder.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|Halfadder_and_fulladder.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 kKgM^XT[5m:XKed1Y^PV<2
+!s85 0
+Z11 !s108 1694409956.547000
+Z12 !s107 Halfadder_and_fulladder.vo|
+!s101 -O0
+vfulladd_vlg_check_tst
+!i10b 1
+!s100 Gi^PUCZf^?foU2RHgnd3D1
+I3_j24zHo410Z`K^KCCeP81
+VH^?M5a6I6TdS[;d@7k=[e1
+R3
+Z13 w1694409953
+Z14 8Halfadder_and_fulladder.vt
+Z15 FHalfadder_and_fulladder.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z16 !s108 1694409956.671000
+Z17 !s107 Halfadder_and_fulladder.vt|
+Z18 !s90 -work|work|Halfadder_and_fulladder.vt|
+!s101 -O0
+R9
+vfulladd_vlg_sample_tst
+!i10b 1
+!s100 JQ[CF3iEDoWia=hH=EVTQ2
+IGnWf0K6BjeQ1Ph9<>o4EX0
+V9LMYYX;@X[HEAmBzOIYRf3
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R9
+vfulladd_vlg_vec_tst
+!i10b 1
+!s100 RK?MmXPIMeT[TzS;d_H8<3
+Ii`:jTYH2kzg6QVV>03;_]1
+Va]oYBNH8?3UJP2_nn`aHA1
+R3
+R13
+R14
+R15
+L0 183
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R9
+vhalfadd
+Z19 IiJ2I9<XOKLS@eT19Im=JJ1
+Z20 VZf<N^>@W7e^V?2Ki@^eC<3
+R3
+Z21 w1694394489
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z22 !s100 dB2?ASdVo4NK2Wg``Rn`]0
+Z23 !s108 1694394491.195000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfadd_vlg_check_tst
+Z24 !s100 W>gNN60155]9dRhS4n9I10
+Z25 IR2dGCJ8BfgN<Ic3PL8ZGB2
+Z26 Vg7I2Xa:Rgh;VoM5I`fEHC3
+R3
+R21
+R14
+R15
+L0 59
+R7
+r1
+31
+Z27 !s108 1694394491.393000
+Z28 !s107 Halfadder_and_fulladder.vt|
+R18
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfadd_vlg_sample_tst
+Z29 !s100 `]l_:BOdckc0P7F=1`^5J1
+Z30 I3kK0mk5126[nIHiE7FLXY0
+Z31 VR=;oX_MWzVHB]kLb=>iBd2
+R3
+R21
+R14
+R15
+L0 29
+R7
+r1
+31
+R27
+R28
+R18
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfadd_vlg_vec_tst
+Z32 !s100 Z^U6df9EncCQNL6E2k@:L3
+Z33 I[;Ab39zhcjkl98iI_ghL@3
+Z34 V8LZP3X<0=Z4F_M<e[We^Q2
+R3
+R21
+R14
+R15
+Z35 L0 181
+R7
+r1
+31
+R27
+R28
+R18
+R9
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, E:/SourceCode/GitHub/robot_experiment_example/halfadd.v
+source_file = 1, E:/SourceCode/GitHub/robot_experiment_example/halfadd.vwf
+source_file = 1, E:/SourceCode/GitHub/robot_experiment_example/fulladd.v
+source_file = 1, E:/SourceCode/GitHub/robot_experiment_example/fulladd.vwf
+source_file = 1, E:/SourceCode/GitHub/robot_experiment_example/db/Halfadder_and_fulladder.cbx.xml
+design_name = fulladd
+instance = comp, \Sum~output , Sum~output, fulladd, 1
+instance = comp, \Cout~output , Cout~output, fulladd, 1
+instance = comp, \Cin~input , Cin~input, fulladd, 1
+instance = comp, \Y~input , Y~input, fulladd, 1
+instance = comp, \X~input , X~input, fulladd, 1
+instance = comp, \HA2|Sum~0 , HA2|Sum~0, fulladd, 1
+instance = comp, \comb~0 , comb~0, fulladd, 1
