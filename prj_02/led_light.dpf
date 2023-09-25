@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pin_planner>
+	<pin_info>
+		<pin name="oLed0" source="Pin Planner" >
+		</pin>
+		<pin name="oLed1" source="Pin Planner" >
+		</pin>
+		<pin name="oLed2" source="Pin Planner" >
+		</pin>
+		<pin name="oLed3" source="Pin Planner" >
+		</pin>
+		<pin name="oLed4" source="Pin Planner" >
+		</pin>
+		<pin name="oLed5" source="Pin Planner" >
+		</pin>
+		<pin name="oLed6" source="Pin Planner" >
+		</pin>
+		<pin name="oLed9" source="Pin Planner" >
+		</pin>
+		<pin name="oLed8" source="Pin Planner" >
+		</pin>
+		<pin name="oLed7" source="Pin Planner" >
+		</pin>
+	</pin_info>
+	<buses>
+	</buses>
+	<group_file_association>
+	</group_file_association>
+	<pin_planner_file_specifies>
+	</pin_planner_file_specifies>
+</pin_planner>
